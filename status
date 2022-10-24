@@ -1,0 +1,35 @@
+[33mcommit 07969d9e06121aadcdf16176e74b426fc3e160d8[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;32mEdits[m[33m)[m
+Author: Ian Venegas <ian.venegas@pcc.edu>
+Date:   Mon Oct 24 10:35:36 2022 -0700
+
+    Print Date
+
+[33mcommit e7dd9dabf6461895bb0d615615706990248aa43f[m
+Author: Ian Venegas <ian.venegas@pcc.edu>
+Date:   Mon Oct 24 10:34:58 2022 -0700
+
+    Print Hello, World!
+
+[33mcommit 332b2adf5d25ef1d5105eadf7a059d99e920ef44[m
+Author: Ian Venegas <ian.venegas@pcc.edu>
+Date:   Mon Oct 24 10:33:23 2022 -0700
+
+    Delete code to move onto new branch
+
+[33mcommit a2886fa5aef07c46e265c4262c37acd8331f36cf[m[33m ([m[1;31morigin/master[m[33m)[m
+Author: Ian Venegas <ian.venegas@pcc.edu>
+Date:   Mon Oct 24 10:25:21 2022 -0700
+
+    Print out Date
+
+[33mcommit 1527827d9e71c8c8cc16678126fffd2b7a0fa285[m
+Author: Ian Venegas <ian.venegas@pcc.edu>
+Date:   Mon Oct 24 10:18:45 2022 -0700
+
+    print Hello, World
+
+[33mcommit 06669ff4df38ce1c7b8d17b9b38c2c0238ca0f12[m
+Author: Ian Venegas <ian.venegas@pcc.edu>
+Date:   Mon Oct 24 09:49:03 2022 -0700
+
+    initialize project
